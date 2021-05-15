@@ -30,3 +30,5 @@ vue vue-with-vuex-options-vs-composition
 cd vue-with-vuex-options-vs-composition
 npm run serve
 ```
+## --Vuex Basics in Vue 3 with Composition API--
+### https://www.youtube.com/watch?v=t_VgDeUJ3_I
